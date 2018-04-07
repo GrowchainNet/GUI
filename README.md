@@ -3,7 +3,7 @@
 Deprecated .. this is for reference only..
 
 
-General purpose web interface for the EOS blockchain.
+General purpose web interface for the Growchain blockchain.
 
 Status: Alpha (for developers)
 
